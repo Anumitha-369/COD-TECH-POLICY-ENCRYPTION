@@ -17,6 +17,10 @@ IMPLEMENT IAM POLICIES, SECURE STORAGE, AND DATA ENCRYPTION ON A CLOUD PLATFORM
 
 CONFIGURED SECURITY POLICIES AND A REPORT DETAILING THE SETUP
 
+**REPORT LINK** : https://docs.google.com/document/d/1-ziH61_TvJbXMBI0EpxlB0ga55dajTCU/edit?usp=drive_link&ouid=102703516643704836876&rtpof=true&sd=true
+
+
+
 ---
 
 <u>**## Getting Started**</u>
@@ -53,13 +57,15 @@ Permissions setup must defined for ,
 
 ---
 
-<U>**IAM POLICY CREATED :**</U> 
+<U>**IAM POLICY CREATED :**</U>
 
-
+![Image](https://github.com/user-attachments/assets/7ec2a710-131d-4f0e-b203-f3848dec44b3)
 
 ---
 
 <U>**IAM USER POLICY CREATED :**</U>
+
+![Image](https://github.com/user-attachments/assets/3d18f658-a82b-47bf-ab66-bd8e6ac8e013)
 
 ---
 Creating the secure storage: 
@@ -88,9 +94,13 @@ KMS - Key Management Service
 
 <U>**ENCRYPTED BUCKET :**</U>
 
+![Image](https://github.com/user-attachments/assets/b1b3d041-924f-43f3-8a9c-5897836aea9b)
+
 ---
 
 <U>**ENCRYPTED BUCKET POLICY :**</U>
+
+![Image](https://github.com/user-attachments/assets/15b0e4c8-f71a-4e6b-9010-803ce2160b1c)
 
 ---
 
@@ -100,7 +110,7 @@ KMS - Key Management Service
 Here , It denied Object To Be Uploaded in Bucket as it is an Unencrypted File which does not satisfy The Condition of SSE-S3.
 
 
-picture
+![Image](https://github.com/user-attachments/assets/6894b9b0-1e7c-4d31-8d6d-4c18adf717bd)
 
 ---
 
@@ -117,13 +127,19 @@ picture
 
 <U>**KMS POLICY :**</U>
 
+![Image](https://github.com/user-attachments/assets/06046a7d-fdc3-4222-8e2e-e28e1061045e)
+
 ---
 
 <U>**KMS-USER POLICY :**</U>
 
+![Image](https://github.com/user-attachments/assets/3d982cc6-53aa-4021-8a48-f9faae8f6e1f)
+
 ---
 
 <U>**KMS - ACCESS KEY  POLICY :**</U>
+
+![Image](https://github.com/user-attachments/assets/4e13aea8-5353-42b7-ad3f-33d59a99f692)
 
 ---
 
@@ -140,6 +156,7 @@ picture
 5 . **Less Risk**: Reduces the chance of security problems.
 
 ---
+
 
 
 
